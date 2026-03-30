@@ -1,9 +1,0 @@
-
-{
-    displayName: "Mejora: Cintas de Titanio"
-    name: "sintas-rapidas"
-    author: "cuotapepro"
-    description: "Hace que las cintas de titanio sean 3 veces más rápidas."
-    version: "1.0"
-    minGameVersion: 140
-}
